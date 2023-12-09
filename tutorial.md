@@ -71,11 +71,15 @@ Change the stroke-width to however big you want your eyes to be, for me, I will 
 
 ### Creating the Face
 Now that we know how to create shapes, its time to create the face.
-If you have text before your image, create a new line and type in this.
+If you've created a new file for this tutorial, input these lines first
 ```
-<br>
+<html>
+  <body>
+
+  </body>
+<html>
 ```
-This creates a new line, and will prevent the image from occupying the same line as the text (unless you want that of course)
+This initializes the code, and we will put our svg code in between body.
 <br>
 To start input the svg line we used earlier. You can make this as big or as small as you want, I will be using 300 to make the face a moderate size.
 ```
@@ -126,3 +130,11 @@ Finally, end the svg code by creating a new line, removing the indention, and ty
 This end the code, and lets the image be created.
 <br>
 With this code it should create this image
+<br>
+https://github.com/gtrusty23/SVG-how-to/blob/main/Image.svg
+
+## Conclusion
+
+If you wish to create more elaborate shapes and learn more about SVG use this [website](https://www.w3schools.com/graphics/svg_intro.asp).
+<br>
+I hope this tutorial helped you in getting started with SVG.
